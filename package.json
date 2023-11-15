@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-social",
+  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carcani/bootstrap-social"
+  },
+  "license": "MIT"
+}
